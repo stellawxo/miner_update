@@ -1,4 +1,0 @@
-New version found on web,version no:123 , please download. aaaaa<br/> <br/> 1. Update web interface <br/> 2. Update login form <br/>
-<html>
-<input type="button" name="Button" value="Start Upgrade" onclick="parent.loadLoginNag()">
-</html>
