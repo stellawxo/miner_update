@@ -1,3 +1,3 @@
 # miner_update
-for update miner
-FOR update
+for online update miner
+for dr2
